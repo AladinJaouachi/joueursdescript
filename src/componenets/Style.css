@@ -1,0 +1,39 @@
+
+.parag{
+    text-align: center;
+
+}
+.parag img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+.cwaret{
+    width: 80%;
+    margin: 40px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.cwaret>*{
+    margin: 30px 0;
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: -10px -10px lightblue;
+}
+.cwaret img{
+    width: 100%;
+    height: 250px;
+    border-radius: 30px;
+ 
+}
+.lot{
+    text-align: center;
+}
